@@ -7,4 +7,5 @@
  * @File: 2.php
  */
 
+var_dump(4);
 var_dump(1);
