@@ -9,3 +9,4 @@
 
 var_dump(4);
 var_dump(1);
+var_dump(3);
