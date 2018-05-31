@@ -31,3 +31,25 @@ function c1()
 
 
 }
+
+function c2()
+{
+    var_dump('C2');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
