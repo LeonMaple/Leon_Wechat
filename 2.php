@@ -15,7 +15,7 @@ var_dump(1);
 var_dump(112312);
 
 echo '测试一下';
-
+echo '1';
 
 
 var_dump(4982343);
