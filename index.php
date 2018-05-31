@@ -15,7 +15,10 @@ function c1()
     var_dump('C1');
 }
 
-
+function c4()
+{
+    var_dump('C4');
+}
 
 
 function c2()
