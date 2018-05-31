@@ -74,6 +74,7 @@ echo '5';
 echo '55';
 echo '6';
 echo '66';
+echo '66';
 echo '7';
 echo '7';
 echo '7';
