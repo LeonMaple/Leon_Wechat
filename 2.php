@@ -10,7 +10,7 @@
 var_dump(0);
 var_dump(4);
 var_dump(1);
-
+echo 10;
 
 var_dump(112312);
 
