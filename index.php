@@ -24,4 +24,5 @@ function c4()
 function c2()
 {
     var_dump('C2');
+    var_dump('C22');
 }
