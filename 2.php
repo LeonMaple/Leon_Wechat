@@ -25,3 +25,4 @@ var_dump(112312);
 echo '';
 
 echo '变基测试一次';
+echo '4';
