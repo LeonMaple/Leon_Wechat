@@ -9,3 +9,8 @@
 
 echo 'C1';
 echo 'C2';
+
+function c1()
+{
+    var_dump('C1');
+}
