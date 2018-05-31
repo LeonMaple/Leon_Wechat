@@ -54,3 +54,26 @@ function c2()
 
 
 }
+
+function c3()
+{
+    var_dump('C3');
+    var_dump('C3');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
