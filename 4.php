@@ -12,3 +12,4 @@ echo '我';
 echo 'haha';
 echo 2;
 echo 3;
+echo 5;
