@@ -14,3 +14,11 @@ function c1()
 {
     var_dump('C1');
 }
+
+
+
+
+function c2()
+{
+    var_dump('C2');
+}
