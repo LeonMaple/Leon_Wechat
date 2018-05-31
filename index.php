@@ -13,6 +13,7 @@ echo 'C2';
 function c1()
 {
     var_dump('C1');
+    var_dump('C1');
 
 
 
