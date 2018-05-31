@@ -18,6 +18,7 @@ function c1()
 function c4()
 {
     var_dump('C4');
+    var_dump('C444');
 }
 
 
