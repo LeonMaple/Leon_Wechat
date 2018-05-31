@@ -27,3 +27,4 @@ echo '';
 echo '变基测试一次';
 echo '4';
 echo '5';
+echo '7';
